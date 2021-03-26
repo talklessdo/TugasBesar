@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TugasBesar</string>
+    <string name="word2">Temukan kebaikan dan sisihkan harta lebihmu untuk orang yang membutuhkan</string>
+    <string name="word1">Sahabat, Selamat Datang Di Zakatin</string>
+    <string name="title_activity_beranda">MainActivity</string>
+    <string name="title_zakat">Zakat</string>
+    <string name="title_home">Home</string>
+    <string name="title_account">Account</string>
+</resources>
